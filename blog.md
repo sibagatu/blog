@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Fucking Blog
-description: This is a fucking blog page. Enjoy it.
+title: Ruslan's Blog
+description: Welcome to my blog!
 permalink: /fucking-blog/
 ---
 
